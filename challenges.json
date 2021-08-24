@@ -1,0 +1,62 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 30 segundos",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos, depois troque os braços",
+        "amount": 100
+    },
+    {
+        "type": "body",
+        "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esqueda, permaneça na posição por 15 segundos",
+        "amount": 90
+    },
+    {
+        "type": "body",
+        "description": "Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alongando assim a parte de trás da cabeça",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Tome um pouco de agua para se hidratar.",
+        "amount": 50
+    },
+    {
+        "type": "body",
+        "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão. Repita este movimento com a outra perna também.",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Pausa para descanso",
+        "amount": 90
+    },
+    {
+        "type": "body",
+        "description": "Puxe o joelho de encontro ao peito e segure, troque de perna após 10 segundos.",
+        "amount": 140
+    },
+    {
+        "type": "eye",
+        "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente",
+        "amount": 80
+    },
+    {
+        "type": "eye",
+        "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3 seundos.",
+        "amount": 60
+    },
+    {
+        "type": "eye",
+        "description": "Usando polegares, faça massagem na area abaixo das sobrancelhas em movimentos circulares por 15 segundos",
+        "amount": 100
+    },
+    {
+        "type": "body",
+        "description": "Relaxe e descontraia um pouco",
+        "amount": 80
+    }  
+]
